@@ -1,0 +1,1 @@
+        # face=frame[bbox[1]:bbox[3], bbox[0]:bbox[2]]
